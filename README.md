@@ -20,7 +20,7 @@ O `HTTP/3` é a terceira grande revisão do protocolo Hypertext Transfer Protoco
 
 - Criptografia embutida (com TLS 1.3 integrado diretamente no transporte).
 
-
+---
 ## 🌐 O que é HTTP/3?
 
 **HTTP/3** é a terceira geração do protocolo de transferência de hipertexto utilizado na Web. Ele traz mudanças significativas em relação aos seus antecessores (HTTP/1.1 e HTTP/2) ao abandonar o protocolo **TCP** em favor do novo protocolo **QUIC**, que opera sobre **UDP**.
