@@ -93,7 +93,7 @@ HTTP/3 mantém-se na **camada de aplicação**, mas muda o transporte para **QUI
 
 - QUIC (e, por consequência, HTTP/3) utiliza UDP, normalmente na porta 443. Você verá pacotes QUIC com esse comando.
 
-![Screenshot from 2025-05-28 12-46-40](https://github.com/user-attachments/assets/73cd590a-07da-407f-84da-057c795317cf)
+
 
 
 ## Usando `nmap` para mapear o tráfico através do endereço IPv4 de sua rede e escutar através da porta 443 e da porta 80.
